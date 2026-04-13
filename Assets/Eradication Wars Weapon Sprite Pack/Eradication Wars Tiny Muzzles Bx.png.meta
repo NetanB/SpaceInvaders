@@ -1,0 +1,1515 @@
+fileFormatVersion: 2
+guid: 0580c2959f09bcd468f12070baed3001
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2607833359705737980
+    second: Eradication Wars Tiny Muzzles Bx_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4057351506d1fcbd0800000000000000
+      internalID: -2607833359705737980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 459
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ad4bb456c4104791f4de6b9432d0e
+      internalID: 300977087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 459
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6344f8a3b59bddf48bb491391a909d25
+      internalID: -329543964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 459
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298431de0e12a4b4a9f76c1e07cd4a60
+      internalID: 1953219016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 459
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b72402ac7434844b198a482ced7a5d
+      internalID: 1367197568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7362a5d3bc2d73d4ba4af9a81fdb749c
+      internalID: -2132762530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 418
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c2c5dd2c678a419437fe46a5c17c3
+      internalID: 1706424841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 418
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11adaa4e2e57074fbf7f884e17e5560
+      internalID: 1821596164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 418
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40864eaeca9c2e44a045afbadcc781a
+      internalID: -307745143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 418
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4290f78f5d55d4fb652acd4f94ba6f
+      internalID: -195249516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09697562b3da2445bc2ab8c66af0816
+      internalID: -1321931545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 377
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d862a40c66c70a42a70689ad8e34172
+      internalID: -2015053213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 377
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4868f807a7ed4ba0be354f4a635fb
+      internalID: 1019499439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 377
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399a59a808b9f8846b7fc1963309e7b8
+      internalID: 1985091242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 377
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cab0e668ff6a48ac00692968dd0b3
+      internalID: 2126910606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55273d86b12d1044b83dd853fc798e8e
+      internalID: 798416250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 336
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9643d59aad4a478d9cb6bf92f06fd
+      internalID: 2128275076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 336
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d72f8aecbfbc640a19216c47fb305a
+      internalID: -1200267088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 336
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b4c7295b5dca846bfc4f577a731a84
+      internalID: 1533510225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_19
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 336
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2d6978a505e447b7bb4373164d6be
+      internalID: 1851077255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf429c4a7d93e3d42ba3d9454caa4d4e
+      internalID: 118832374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 295
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709df7e50bf1f3c49a2a51bd7421ddba
+      internalID: 1500530121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 295
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96551351421129841b889a2b59412f72
+      internalID: -1095149303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 295
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65612497694b0c641ad45822e7ca7d37
+      internalID: 1525365771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_24
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 295
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c1de74a4d62949b28368ae89c054f
+      internalID: -1590867814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ed508a1a44b84693d09b9045e5825
+      internalID: -1256316893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 254
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1cd687aba7af342a054f503d569fd4
+      internalID: -1222262083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 254
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d99512a060eb439e874e66a2bee64
+      internalID: -1163289900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 254
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e3775d7b1c7f4a99766e1206c57e7
+      internalID: -1680082274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 254
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7882c71433e2448416327a7c0e772
+      internalID: 131179278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0960f73cbd7f4b9eb06816ea9d19b
+      internalID: 1908592483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 213
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c47d22df6a0ae41b773e47c691e81e
+      internalID: -1261354311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 213
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b692295a381484f8f53dcd7ef2b671
+      internalID: -983247712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 213
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5327cd066dd2543b8cf3f364c08c11
+      internalID: -634555989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_34
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 213
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c6c2b64cfe23e4da20a66f3b6abb95
+      internalID: -1657015479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639ad707070ba1439e45964934b2c3e
+      internalID: -2143086331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 172
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b958abf679c36ad4bb7abd2b09c6b7b1
+      internalID: 896210791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 172
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66b232fd6d79240b1b1882a3100593
+      internalID: -2053915241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_38
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 172
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57785712d7c4b46801855fe49daa5b
+      internalID: 1423871215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_39
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 172
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0849a498079bf498da80804fa77257
+      internalID: -783871267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423df4e0c19534c4e982b2ac45837c5b
+      internalID: -1566566550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0cdc4aa3d62204f92ee403d9eaee5a
+      internalID: -506711901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_42
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 131
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85df78cec79c24842a15ef28bcc8db15
+      internalID: 1939388245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 131
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b963f24ffd8be459a6a8e5b6019018
+      internalID: -780925729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_44
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 131
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d7d6145dc228478ec388892973924
+      internalID: -1360641136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2234a4863de174ca9548d1a06a87e5
+      internalID: 1648994246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 90
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e84ce1b9de03c441a3d8e012f2f0292
+      internalID: 48118992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 90
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66220e7d9c99c98449f435e8fa1db125
+      internalID: -750122292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_48
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 90
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d443881e23d784195e70672d4d1dd3
+      internalID: 969797197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_49
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 90
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59723438131a9f0479d812b90847f79d
+      internalID: 1498518219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16edcf3a6ab3749815343e3ce065e0
+      internalID: 814178724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a032c3ffd07af04881c713ebb017ce0
+      internalID: -1728952260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 49
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd36caa3e2ed04f9bdefecf8ba0fb5
+      internalID: 848348771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 49
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b336b959aba45242a1ae9e459a9d39d
+      internalID: 167598048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_54
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 49
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c184b80228b02e40983f10c7a0abf1f
+      internalID: -1340182452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d01b23ad15a742a71a38e1e2a68fb
+      internalID: -1660299520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_56
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 8
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9973fbd9c083da04e9f14a3093897bbd
+      internalID: -219412714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25582472c802eb4a97cbea81274d73f
+      internalID: -1470513241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_58
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 8
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d3f2001c5b5224f919213d875159ee
+      internalID: -435992571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Muzzles Bx_59
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 8
+        width: 172
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23dafbbfdf8e7e408b4b002735c14e5
+      internalID: -56521294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 23c7026ec33fbdf4890a0d0d69ed245e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":172.0,"y":41.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Eradication Wars Tiny Muzzles Bx_0: -2607833359705737980
+      Eradication Wars Tiny Muzzles Bx_1: 300977087
+      Eradication Wars Tiny Muzzles Bx_10: -1321931545
+      Eradication Wars Tiny Muzzles Bx_11: -2015053213
+      Eradication Wars Tiny Muzzles Bx_12: 1019499439
+      Eradication Wars Tiny Muzzles Bx_13: 1985091242
+      Eradication Wars Tiny Muzzles Bx_14: 2126910606
+      Eradication Wars Tiny Muzzles Bx_15: 798416250
+      Eradication Wars Tiny Muzzles Bx_16: 2128275076
+      Eradication Wars Tiny Muzzles Bx_17: -1200267088
+      Eradication Wars Tiny Muzzles Bx_18: 1533510225
+      Eradication Wars Tiny Muzzles Bx_19: 1851077255
+      Eradication Wars Tiny Muzzles Bx_2: -329543964
+      Eradication Wars Tiny Muzzles Bx_20: 118832374
+      Eradication Wars Tiny Muzzles Bx_21: 1500530121
+      Eradication Wars Tiny Muzzles Bx_22: -1095149303
+      Eradication Wars Tiny Muzzles Bx_23: 1525365771
+      Eradication Wars Tiny Muzzles Bx_24: -1590867814
+      Eradication Wars Tiny Muzzles Bx_25: -1256316893
+      Eradication Wars Tiny Muzzles Bx_26: -1222262083
+      Eradication Wars Tiny Muzzles Bx_27: -1163289900
+      Eradication Wars Tiny Muzzles Bx_28: -1680082274
+      Eradication Wars Tiny Muzzles Bx_29: 131179278
+      Eradication Wars Tiny Muzzles Bx_3: 1953219016
+      Eradication Wars Tiny Muzzles Bx_30: 1908592483
+      Eradication Wars Tiny Muzzles Bx_31: -1261354311
+      Eradication Wars Tiny Muzzles Bx_32: -983247712
+      Eradication Wars Tiny Muzzles Bx_33: -634555989
+      Eradication Wars Tiny Muzzles Bx_34: -1657015479
+      Eradication Wars Tiny Muzzles Bx_35: -2143086331
+      Eradication Wars Tiny Muzzles Bx_36: 896210791
+      Eradication Wars Tiny Muzzles Bx_37: -2053915241
+      Eradication Wars Tiny Muzzles Bx_38: 1423871215
+      Eradication Wars Tiny Muzzles Bx_39: -783871267
+      Eradication Wars Tiny Muzzles Bx_4: 1367197568
+      Eradication Wars Tiny Muzzles Bx_40: -1566566550
+      Eradication Wars Tiny Muzzles Bx_41: -506711901
+      Eradication Wars Tiny Muzzles Bx_42: 1939388245
+      Eradication Wars Tiny Muzzles Bx_43: -780925729
+      Eradication Wars Tiny Muzzles Bx_44: -1360641136
+      Eradication Wars Tiny Muzzles Bx_45: 1648994246
+      Eradication Wars Tiny Muzzles Bx_46: 48118992
+      Eradication Wars Tiny Muzzles Bx_47: -750122292
+      Eradication Wars Tiny Muzzles Bx_48: 969797197
+      Eradication Wars Tiny Muzzles Bx_49: 1498518219
+      Eradication Wars Tiny Muzzles Bx_5: -2132762530
+      Eradication Wars Tiny Muzzles Bx_50: 814178724
+      Eradication Wars Tiny Muzzles Bx_51: -1728952260
+      Eradication Wars Tiny Muzzles Bx_52: 848348771
+      Eradication Wars Tiny Muzzles Bx_53: 167598048
+      Eradication Wars Tiny Muzzles Bx_54: -1340182452
+      Eradication Wars Tiny Muzzles Bx_55: -1660299520
+      Eradication Wars Tiny Muzzles Bx_56: -219412714
+      Eradication Wars Tiny Muzzles Bx_57: -1470513241
+      Eradication Wars Tiny Muzzles Bx_58: -435992571
+      Eradication Wars Tiny Muzzles Bx_59: -56521294
+      Eradication Wars Tiny Muzzles Bx_6: 1706424841
+      Eradication Wars Tiny Muzzles Bx_7: 1821596164
+      Eradication Wars Tiny Muzzles Bx_8: -307745143
+      Eradication Wars Tiny Muzzles Bx_9: -195249516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

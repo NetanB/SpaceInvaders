@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 077c1dda311eb04419a27936c2d833aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -408704972552279504
+    second: Eradication Wars Tiny Projectiles Sheet_0
+  - first:
+      213: -4485471374966317838
+    second: Eradication Wars Tiny Projectiles Sheet_1
+  - first:
+      213: 4024441794535865461
+    second: Eradication Wars Tiny Projectiles Sheet_2
+  - first:
+      213: 6140218723762806015
+    second: Eradication Wars Tiny Projectiles Sheet_3
+  - first:
+      213: 8210586395177070571
+    second: Eradication Wars Tiny Projectiles Sheet_4
+  - first:
+      213: -72003153409328607
+    second: Eradication Wars Tiny Projectiles Sheet_5
+  - first:
+      213: -1968856614588783874
+    second: Eradication Wars Tiny Projectiles Sheet_6
+  - first:
+      213: -7808733461499643289
+    second: Eradication Wars Tiny Projectiles Sheet_7
+  - first:
+      213: -2544046053759947013
+    second: Eradication Wars Tiny Projectiles Sheet_8
+  - first:
+      213: -1768039158000991602
+    second: Eradication Wars Tiny Projectiles Sheet_9
+  - first:
+      213: -6074666579147991551
+    second: Eradication Wars Tiny Projectiles Sheet_10
+  - first:
+      213: -7758130274232365283
+    second: Eradication Wars Tiny Projectiles Sheet_11
+  - first:
+      213: 8906354875543011665
+    second: Eradication Wars Tiny Projectiles Sheet_12
+  - first:
+      213: 2933734329342377293
+    second: Eradication Wars Tiny Projectiles Sheet_13
+  - first:
+      213: 8777442593368592322
+    second: Eradication Wars Tiny Projectiles Sheet_14
+  - first:
+      213: 3234983532369038053
+    second: Eradication Wars Tiny Projectiles Sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 93
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ae51d2efcf35af0800000000000000
+      internalID: -408704972552279504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc13fcac8760c1c0800000000000000
+      internalID: -4485471374966317838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 83
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbb8e5d70b9d730800000000000000
+      internalID: 4024441794535865461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 69
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9511a560763550800000000000000
+      internalID: 6140218723762806015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 52
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef2f2a23dcd1f170800000000000000
+      internalID: 8210586395177070571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a34527381300ff0800000000000000
+      internalID: -72003153409328607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 59
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2e1c927573da4e0800000000000000
+      internalID: -1968856614588783874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 59
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a7b990a4ec1a390800000000000000
+      internalID: -7808733461499643289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe6761d79bb1bcd0800000000000000
+      internalID: -2544046053759947013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 108
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82ce56d0c9a677e0800000000000000
+      internalID: -1768039158000991602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 38
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10652f46ee272bba0800000000000000
+      internalID: -6074666579147991551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f0d23be95955490800000000000000
+      internalID: -7758130274232365283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1514f48429ab99b70800000000000000
+      internalID: 8906354875543011665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d32d534d7b6b820800000000000000
+      internalID: 2933734329342377293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 13
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf4e16a88dbfc970800000000000000
+      internalID: 8777442593368592322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Tiny Projectiles Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 75
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea481d0268f4ec20800000000000000
+      internalID: 3234983532369038053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eradication Wars Tiny Projectiles Sheet_0: -408704972552279504
+      Eradication Wars Tiny Projectiles Sheet_1: -4485471374966317838
+      Eradication Wars Tiny Projectiles Sheet_10: -6074666579147991551
+      Eradication Wars Tiny Projectiles Sheet_11: -7758130274232365283
+      Eradication Wars Tiny Projectiles Sheet_12: 8906354875543011665
+      Eradication Wars Tiny Projectiles Sheet_13: 2933734329342377293
+      Eradication Wars Tiny Projectiles Sheet_14: 8777442593368592322
+      Eradication Wars Tiny Projectiles Sheet_15: 3234983532369038053
+      Eradication Wars Tiny Projectiles Sheet_2: 4024441794535865461
+      Eradication Wars Tiny Projectiles Sheet_3: 6140218723762806015
+      Eradication Wars Tiny Projectiles Sheet_4: 8210586395177070571
+      Eradication Wars Tiny Projectiles Sheet_5: -72003153409328607
+      Eradication Wars Tiny Projectiles Sheet_6: -1968856614588783874
+      Eradication Wars Tiny Projectiles Sheet_7: -7808733461499643289
+      Eradication Wars Tiny Projectiles Sheet_8: -2544046053759947013
+      Eradication Wars Tiny Projectiles Sheet_9: -1768039158000991602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

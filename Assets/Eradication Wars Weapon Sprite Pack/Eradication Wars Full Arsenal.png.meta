@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: b3f1fb839ce61d34f813fb746f416268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2678285296429927890
+    second: Eradication Wars Full Arsenal_0
+  - first:
+      213: 4778801483897799437
+    second: Eradication Wars Full Arsenal_1
+  - first:
+      213: 2993494198446031821
+    second: Eradication Wars Full Arsenal_2
+  - first:
+      213: -4993159486720274570
+    second: Eradication Wars Full Arsenal_3
+  - first:
+      213: 8989127575420289926
+    second: Eradication Wars Full Arsenal_4
+  - first:
+      213: 80160026404287978
+    second: Eradication Wars Full Arsenal_5
+  - first:
+      213: -2680974061424148071
+    second: Eradication Wars Full Arsenal_6
+  - first:
+      213: 5011571569761809529
+    second: Eradication Wars Full Arsenal_7
+  - first:
+      213: -8933309193072097064
+    second: Eradication Wars Full Arsenal_8
+  - first:
+      213: 6452575753635739671
+    second: Eradication Wars Full Arsenal_9
+  - first:
+      213: -51275926415944935
+    second: Eradication Wars Full Arsenal_10
+  - first:
+      213: -8973153996455532839
+    second: Eradication Wars Full Arsenal_11
+  - first:
+      213: 320145413120732188
+    second: Eradication Wars Full Arsenal_12
+  - first:
+      213: -3931209219308725823
+    second: Eradication Wars Full Arsenal_13
+  - first:
+      213: -7307697728097357405
+    second: Eradication Wars Full Arsenal_14
+  - first:
+      213: -7328152004948929495
+    second: Eradication Wars Full Arsenal_15
+  - first:
+      213: -1503394351020203792
+    second: Eradication Wars Full Arsenal_16
+  - first:
+      213: -5334860516673936667
+    second: Eradication Wars Full Arsenal_17
+  - first:
+      213: 5900510176374330711
+    second: Eradication Wars Full Arsenal_18
+  - first:
+      213: 1306035667004580878
+    second: Eradication Wars Full Arsenal_19
+  - first:
+      213: -968607289091178867
+    second: Eradication Wars Full Arsenal_20
+  - first:
+      213: -4281890970520350053
+    second: Eradication Wars Full Arsenal_21
+  - first:
+      213: 5437364173132268291
+    second: Eradication Wars Full Arsenal_22
+  - first:
+      213: 8100908675470395482
+    second: Eradication Wars Full Arsenal_23
+  - first:
+      213: 2936550414194113432
+    second: Eradication Wars Full Arsenal_24
+  - first:
+      213: 6775724629845629677
+    second: Eradication Wars Full Arsenal_25
+  - first:
+      213: 4923439451653680199
+    second: Eradication Wars Full Arsenal_26
+  - first:
+      213: -8682171379471033325
+    second: Eradication Wars Full Arsenal_27
+  - first:
+      213: 8802511264269150015
+    second: Eradication Wars Full Arsenal_28
+  - first:
+      213: 8782678410308237180
+    second: Eradication Wars Full Arsenal_29
+  - first:
+      213: 159092164019091786
+    second: Eradication Wars Full Arsenal_30
+  - first:
+      213: 3229770089835097605
+    second: Eradication Wars Full Arsenal_31
+  - first:
+      213: -4202582011051410350
+    second: Eradication Wars Full Arsenal_32
+  - first:
+      213: 4520246340517471300
+    second: Eradication Wars Full Arsenal_33
+  - first:
+      213: 6191015955230064305
+    second: Eradication Wars Full Arsenal_34
+  - first:
+      213: 7058515873151260142
+    second: Eradication Wars Full Arsenal_35
+  - first:
+      213: -7494927312306058155
+    second: Eradication Wars Full Arsenal_36
+  - first:
+      213: 8099267593398146143
+    second: Eradication Wars Full Arsenal_37
+  - first:
+      213: 5737487345891523404
+    second: Eradication Wars Full Arsenal_38
+  - first:
+      213: -2503144806763300466
+    second: Eradication Wars Full Arsenal_39
+  - first:
+      213: -5758808102271288882
+    second: Eradication Wars Full Arsenal_40
+  - first:
+      213: 8370350573699460379
+    second: Eradication Wars Full Arsenal_41
+  - first:
+      213: -813978347931022617
+    second: Eradication Wars Full Arsenal_42
+  - first:
+      213: -7065121408036379994
+    second: Eradication Wars Full Arsenal_43
+  - first:
+      213: 7534234453549583436
+    second: Eradication Wars Full Arsenal_44
+  - first:
+      213: -2325008470715946570
+    second: Eradication Wars Full Arsenal_45
+  - first:
+      213: -3522604381856351712
+    second: Eradication Wars Full Arsenal_46
+  - first:
+      213: -6599917389231707400
+    second: Eradication Wars Full Arsenal_47
+  - first:
+      213: 3304669575294086145
+    second: Eradication Wars Full Arsenal_48
+  - first:
+      213: -6001306237641864770
+    second: Eradication Wars Full Arsenal_49
+  - first:
+      213: 6467477218474147932
+    second: Eradication Wars Full Arsenal_50
+  - first:
+      213: -7593010292988049876
+    second: Eradication Wars Full Arsenal_51
+  - first:
+      213: -4914315190580554562
+    second: Eradication Wars Full Arsenal_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 195
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd8bd4794e2b2520800000000000000
+      internalID: 2678285296429927890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 199
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0386d361a6b15240800000000000000
+      internalID: 4778801483897799437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 194
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3819ffc170b8920800000000000000
+      internalID: 2993494198446031821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8a27d6ebb4bab0800000000000000
+      internalID: -4993159486720274570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 189
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683489547ebcfbc70800000000000000
+      internalID: 8989127575420289926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 193
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5730b8e19cc1100800000000000000
+      internalID: 80160026404287978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 196
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99107c8ab444bcad0800000000000000
+      internalID: -2680974061424148071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974791e4acdac8540800000000000000
+      internalID: 5011571569761809529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8c43e9e92860480800000000000000
+      internalID: -8933309193072097064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 169
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b1c1f5772c8950800000000000000
+      internalID: 6452575753635739671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 165
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d27c01d4d94ff0800000000000000
+      internalID: -51275926415944935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 163
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d624666bf3f87380800000000000000
+      internalID: -8973153996455532839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 165
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c28899e82617400800000000000000
+      internalID: 320145413120732188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 164
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9dc512b0a8179c0800000000000000
+      internalID: -3931209219308725823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 141
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f3d652a7d59a90800000000000000
+      internalID: -7307697728097357405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 153
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924d3f4e39c2d4a90800000000000000
+      internalID: -7328152004948929495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 139
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ac169dced22be0800000000000000
+      internalID: -1503394351020203792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 137
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2a46910a4c6f5b0800000000000000
+      internalID: -5334860516673936667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 140
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7559e504eb2d2e150800000000000000
+      internalID: 5900510176374330711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 137
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046ccbf488ff1210800000000000000
+      internalID: 1306035667004580878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ebdde6dc0de82f0800000000000000
+      internalID: -968607289091178867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 143
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b929e2749daa394c0800000000000000
+      internalID: -4281890970520350053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3030cf538e5657b40800000000000000
+      internalID: 5437364173132268291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 114
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a580b4715853c6070800000000000000
+      internalID: 8100908675470395482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 111
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf01f0b09b0c820800000000000000
+      internalID: 2936550414194113432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 112
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea50d9c6a5380e50800000000000000
+      internalID: 6775724629845629677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 113
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c26f48812935440800000000000000
+      internalID: 4923439451653680199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 116
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cd097612bb28780800000000000000
+      internalID: -8682171379471033325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 91
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37232e6b5dc82a70800000000000000
+      internalID: 8802511264269150015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c773ae64b7752e970800000000000000
+      internalID: 8782678410308237180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 86
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49f7e2fa75353200800000000000000
+      internalID: 159092164019091786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 86
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e6dced8c272dc20800000000000000
+      internalID: 3229770089835097605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 82
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c75db5ded6da5c0800000000000000
+      internalID: -4202582011051410350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 85
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444adcfe8142bbe30800000000000000
+      internalID: 4520246340517471300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be734ab538eae550800000000000000
+      internalID: 6191015955230064305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee513acf9c2e4f160800000000000000
+      internalID: 7058515873151260142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 58
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ccf9cb15bacf790800000000000000
+      internalID: -7494927312306058155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 59
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f545455e6f0666070800000000000000
+      internalID: 8099267593398146143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 60
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb923b756af9f40800000000000000
+      internalID: 5737487345891523404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 55
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89728b7f0b034dd0800000000000000
+      internalID: -2503144806763300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 60
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec97a7eda8a9410b0800000000000000
+      internalID: -5758808102271288882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de7deaf75792470800000000000000
+      internalID: 8370350573699460379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 36
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea46b4510b24b4f0800000000000000
+      internalID: -813978347931022617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ebf21385a3fd90800000000000000
+      internalID: -7065121408036379994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 32
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c0552415afe8860800000000000000
+      internalID: 7534234453549583436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a3334d19ebbfd0800000000000000
+      internalID: -2325008470715946570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 32
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab73f6af13d1fc0800000000000000
+      internalID: -3522604381856351712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faabe33a126864a0800000000000000
+      internalID: -6599917389231707400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce177487b8cdd20800000000000000
+      internalID: 3304669575294086145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9450de5c317bca0800000000000000
+      internalID: -6001306237641864770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c504518934811c950800000000000000
+      internalID: 6467477218474147932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2600963e5530a690800000000000000
+      internalID: -7593010292988049876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eradication Wars Full Arsenal_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 12
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d32f0f58dccbb0800000000000000
+      internalID: -4914315190580554562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eradication Wars Full Arsenal_0: 2678285296429927890
+      Eradication Wars Full Arsenal_1: 4778801483897799437
+      Eradication Wars Full Arsenal_10: -51275926415944935
+      Eradication Wars Full Arsenal_11: -8973153996455532839
+      Eradication Wars Full Arsenal_12: 320145413120732188
+      Eradication Wars Full Arsenal_13: -3931209219308725823
+      Eradication Wars Full Arsenal_14: -7307697728097357405
+      Eradication Wars Full Arsenal_15: -7328152004948929495
+      Eradication Wars Full Arsenal_16: -1503394351020203792
+      Eradication Wars Full Arsenal_17: -5334860516673936667
+      Eradication Wars Full Arsenal_18: 5900510176374330711
+      Eradication Wars Full Arsenal_19: 1306035667004580878
+      Eradication Wars Full Arsenal_2: 2993494198446031821
+      Eradication Wars Full Arsenal_20: -968607289091178867
+      Eradication Wars Full Arsenal_21: -4281890970520350053
+      Eradication Wars Full Arsenal_22: 5437364173132268291
+      Eradication Wars Full Arsenal_23: 8100908675470395482
+      Eradication Wars Full Arsenal_24: 2936550414194113432
+      Eradication Wars Full Arsenal_25: 6775724629845629677
+      Eradication Wars Full Arsenal_26: 4923439451653680199
+      Eradication Wars Full Arsenal_27: -8682171379471033325
+      Eradication Wars Full Arsenal_28: 8802511264269150015
+      Eradication Wars Full Arsenal_29: 8782678410308237180
+      Eradication Wars Full Arsenal_3: -4993159486720274570
+      Eradication Wars Full Arsenal_30: 159092164019091786
+      Eradication Wars Full Arsenal_31: 3229770089835097605
+      Eradication Wars Full Arsenal_32: -4202582011051410350
+      Eradication Wars Full Arsenal_33: 4520246340517471300
+      Eradication Wars Full Arsenal_34: 6191015955230064305
+      Eradication Wars Full Arsenal_35: 7058515873151260142
+      Eradication Wars Full Arsenal_36: -7494927312306058155
+      Eradication Wars Full Arsenal_37: 8099267593398146143
+      Eradication Wars Full Arsenal_38: 5737487345891523404
+      Eradication Wars Full Arsenal_39: -2503144806763300466
+      Eradication Wars Full Arsenal_4: 8989127575420289926
+      Eradication Wars Full Arsenal_40: -5758808102271288882
+      Eradication Wars Full Arsenal_41: 8370350573699460379
+      Eradication Wars Full Arsenal_42: -813978347931022617
+      Eradication Wars Full Arsenal_43: -7065121408036379994
+      Eradication Wars Full Arsenal_44: 7534234453549583436
+      Eradication Wars Full Arsenal_45: -2325008470715946570
+      Eradication Wars Full Arsenal_46: -3522604381856351712
+      Eradication Wars Full Arsenal_47: -6599917389231707400
+      Eradication Wars Full Arsenal_48: 3304669575294086145
+      Eradication Wars Full Arsenal_49: -6001306237641864770
+      Eradication Wars Full Arsenal_5: 80160026404287978
+      Eradication Wars Full Arsenal_50: 6467477218474147932
+      Eradication Wars Full Arsenal_51: -7593010292988049876
+      Eradication Wars Full Arsenal_52: -4914315190580554562
+      Eradication Wars Full Arsenal_6: -2680974061424148071
+      Eradication Wars Full Arsenal_7: 5011571569761809529
+      Eradication Wars Full Arsenal_8: -8933309193072097064
+      Eradication Wars Full Arsenal_9: 6452575753635739671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
