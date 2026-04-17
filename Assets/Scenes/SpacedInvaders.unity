@@ -684,7 +684,7 @@ GameObject:
   - component: {fileID: 1431047861}
   - component: {fileID: 1431047860}
   - component: {fileID: 1431047863}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bunker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -836,7 +836,7 @@ GameObject:
   - component: {fileID: 1464793723}
   - component: {fileID: 1464793722}
   - component: {fileID: 1464793725}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bunker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1017,22 +1017,22 @@ MonoBehaviour:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0.0070266724
-      value: 1.935669
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
+      time: -0.0017127991
+      value: 1.9714966
+      inSlope: 9.2377
+      outSlope: 9.2377
+      tangentMode: 34
       weightedMode: 0
       inWeight: 0
-      outWeight: 0
+      outWeight: 0.33333334
     - serializedVersion: 3
-      time: 0.98034245
-      value: 11.947773
-      inSlope: 0.48283225
-      outSlope: 0.48283225
-      tangentMode: 0
+      time: 0.99365234
+      value: 11.166382
+      inSlope: 9.2377
+      outSlope: 9.2377
+      tangentMode: 34
       weightedMode: 0
-      inWeight: 0.07123564
+      inWeight: 0.33333334
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -1066,7 +1066,7 @@ GameObject:
   - component: {fileID: 2036553359}
   - component: {fileID: 2036553358}
   - component: {fileID: 2036553361}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bunker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
