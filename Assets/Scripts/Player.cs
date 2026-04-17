@@ -6,7 +6,6 @@ public class Player : MonoBehaviour
 {
     public float speed = 5.0f;
     public Projectile projectilePrefab;
-    private bool canShoot;
 
     private void Update()
     {
@@ -22,24 +21,14 @@ public class Player : MonoBehaviour
 
     private void Shoot()
     {
-        if (!canShoot)
-        {
-             Projectile projectile = Instantiate(projectilePrefab, transform.position, Quaternion.Euler (0, 0, 90)  );
-            projectile.onDestroyed += LaserDestroyed;
-            canShoot = true;
-        }
-
-        
-       
-    }
-    private void LaserDestroyed()
-    {
-        canShoot = false;
+        Instantiate(projectilePrefab, transform.position, Quaternion.Euler (0, 0, 90));
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.layer == LayerMask.NameToLayer("Missile") || other.gameObject.layer == LayerMask.NameToLayer("Invader")    )
+        if (other.gameObject.layer == LayerMask.NameToLayer("Missile") || 
+            other.gameObject.layer == LayerMask.NameToLayer("Invader") ||
+            other.gameObject.layer == LayerMask.NameToLayer("Laser"))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
